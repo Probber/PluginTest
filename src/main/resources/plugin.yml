@@ -1,0 +1,14 @@
+name: Teleport
+version: 1.0.0
+author: Probber
+website: gameclaw.net
+main: net.gameclaw.teleport.TeleportPlugin
+
+commands:
+  tp2:
+    description: Teleports you to a Player.
+    usage: /tp2 [target]
+
+  tpp:
+    description: Teleports a Player to you.
+    usage: /tpp [target]
